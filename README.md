@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on freelance projects.  
   
 
-- 🔄 I'm currently learning Django and Python  
+- 🔄 I'm currently learning Flutter 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
