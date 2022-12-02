@@ -1,15 +1,12 @@
 ### 
->> Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
+⚡ Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
 <br><br>
 
 - 🔭 I'm currently working on freelance projects.  
   
 
 - 🔄 I'm currently learning Flutter 
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+    
 
 <br/>  
 
