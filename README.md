@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on freelance projects.  
   
 
-- 🔄 I'm currently learning Flutter 
+- 🔄 I'm currently learning Flutter and React
     
 
 <br/>  
@@ -68,14 +68,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefacatalbas&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
