@@ -1,8 +1,6 @@
 ### 
-
-
-
-  
+>> Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
+<br><br>
 
 - 🔭 I'm currently working on freelance projects.  
   
