@@ -1,5 +1,5 @@
 ### 
-⚡ Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
+- ⚡ Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
 <br>
 - 🔭 I'm currently working on freelance projects.  
 <br>
