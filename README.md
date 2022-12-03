@@ -1,5 +1,4 @@
 ##
-<br>
 - 👋 Hi guys I'm Sefa
 <br>
 - 🔭 I'm currently working on freelance projects.
