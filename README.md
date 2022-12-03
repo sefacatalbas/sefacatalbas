@@ -1,6 +1,9 @@
+##
+<br>
 - ⚡ Hi guys  👨‍💻  I am a freelance Front End developer. 💻 working remotely since 2021 🚀
 <br>
-- 🔭 I'm currently working on freelance projects.  
+- 🔭 I'm currently working on freelance projects.
+<br>
 - 🔄 I'm currently learning Flutter and React
 
 <h3 align="left">Connect with me:</h3>
