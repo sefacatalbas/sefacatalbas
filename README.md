@@ -1,11 +1,12 @@
 ##
-- 👋 Hi guys I'm Sefa
 <br>
-- 🔭 I'm currently working on freelance projects.
+👋 Hi guys I'm Sefa
 <br>
-- 🔄 I'm currently learning Flutter and React
+🔭 I'm currently working on freelance projects.
 <br>
-- 📧 Connect with me:
+🔄 I'm currently learning Flutter and React
+<br>
+📧 Connect with me:
 sefacatalbas1@gmail.com  
 
 
