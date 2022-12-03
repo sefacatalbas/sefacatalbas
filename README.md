@@ -21,7 +21,7 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="35"/></a>
 </div>
 <br>      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefacatalbas&show_icons=true&locale=en&layout=compact" alt="sefacatalbas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefacatalbas&show_icons=true&locale=en&layout=compact" alt="sefacatalbas" /></p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sefacatalbas&&style=flat-square" align="center" />
 </div>  
