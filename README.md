@@ -6,11 +6,9 @@
 <br>
 🔄 I'm currently learning Flutter and React
 <br>
-📧 Connect with me:
-sefacatalbas1@gmail.com  
+📫 Connect with me: sefacatalbas1@gmail.com  
 
-
-
+<br>
 <div>
 <h4 align="cemter">My Skill Set</h4>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a>
