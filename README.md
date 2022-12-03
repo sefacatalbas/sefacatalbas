@@ -6,7 +6,7 @@
 <br>
 🔄 I'm currently learning Flutter and React
 <br>
-📫 Connect with me: sefacatalbas1@gmail.com  
+📫 Connect with me: <a href=”mailto:sefacatalbas1@gmail.com”> 
 
 <br>
 <div>
