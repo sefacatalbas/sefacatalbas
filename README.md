@@ -5,6 +5,9 @@
 - 🔭 I'm currently working on freelance projects.
 <br>
 - 🔄 I'm currently learning Flutter and React
+- 📧 Connect with me:
+sefacatalbas1@gmail.com or https://www.linkedin.com/sefacatalbas
+
 
 <div>
 <h4 align="cemter">My Skill Set</h4>
