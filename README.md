@@ -2,11 +2,11 @@
 <br>
 👋 Hi guys I'm Sefa
 <br>
-🔭 I'm currently working on freelance projects.
+💻 I'm currently working on freelance projects.
 <br>
 🔄 I'm currently learning Flutter and React
 <br>
-📫 Connect with me: <a href="mailto:sefacatalbas1@gmail.com">sefacatalbas1@gmail.com</a>   
+📫 Connect with me: <a href="mailto:sefacatalbas1@gmail.com">sefacatalbas1@gmail.com</a> & https://www.linkedin.com/sefacatalbas
 
 <br>
 <div>
