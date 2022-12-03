@@ -7,8 +7,8 @@
 - 🔄 I'm currently learning Flutter and React
 <br>
 - 📧 Connect with me:
-htpps://www.sefacatalbas1@gmail.com  
-https://www.linkedin.com/sefacatalbas
+sefacatalbas1@gmail.com  
+
 
 
 <div>
