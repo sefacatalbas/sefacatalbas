@@ -1,13 +1,14 @@
 ##
 <br>
-- 👋 Hi guys I'm Sefa. 💻 working remotely since 2021 🚀
+- 👋 Hi guys I'm Sefa
 <br>
 - 🔭 I'm currently working on freelance projects.
 <br>
 - 🔄 I'm currently learning Flutter and React
 <br>
 - 📧 Connect with me:
-sefacatalbas1@gmail.com or https://www.linkedin.com/sefacatalbas
+htpps://www.sefacatalbas1@gmail.com  
+https://www.linkedin.com/sefacatalbas
 
 
 <div>
