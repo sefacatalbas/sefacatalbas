@@ -23,11 +23,11 @@
 <br>      
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefacatalbas&show_icons=true&locale=en&layout=compact" alt="sefacatalbas" /></p>
-<img align='right' src="https://komarev.com/ghpvc/?username=sefacatalbas&&style=flat-square" align="center" </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sefacatalbas&show_icons=true&locale=en" alt="sefacatalbas" /></p>
 </div>
 
 <div align="center">
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sefacatalbas&show_icons=true&locale=en" alt="sefacatalbas" /></p>
+<img align='right' src="https://komarev.com/ghpvc/?username=sefacatalbas&&style=flat-square" align="center" </p>
 </div>  
   
 
